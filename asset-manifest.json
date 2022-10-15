@@ -1,14 +1,14 @@
 {
   "files": {
     "main.css": "/Microsoft-Clone/static/css/main.eb7f1272.css",
-    "main.js": "/Microsoft-Clone/static/js/main.5d9e5118.js",
+    "main.js": "/Microsoft-Clone/static/js/main.b717df20.js",
     "static/media/edge.avif": "/Microsoft-Clone/static/media/edge.ee336a16e56afd102bf1.avif",
     "index.html": "/Microsoft-Clone/index.html",
     "main.eb7f1272.css.map": "/Microsoft-Clone/static/css/main.eb7f1272.css.map",
-    "main.5d9e5118.js.map": "/Microsoft-Clone/static/js/main.5d9e5118.js.map"
+    "main.b717df20.js.map": "/Microsoft-Clone/static/js/main.b717df20.js.map"
   },
   "entrypoints": [
     "static/css/main.eb7f1272.css",
-    "static/js/main.5d9e5118.js"
+    "static/js/main.b717df20.js"
   ]
 }
